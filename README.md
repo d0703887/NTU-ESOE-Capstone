@@ -1,5 +1,9 @@
 # NTU-ESOE-Capstone
 NTU-ESOS-Capstone topics of Engineering Science and Ocean Engineering
+## Abstract
+
+This is an implementation of AI-based Face Anti-Spoofing(FAS) Detection. The goal of this project is to perform FAS on detection on Rasberry Pi 4. We trained CDCN++ which was proposed in "***Searching Central Difference Convolutional Networks for Face Anti-Spoofing***" from scratch. The model was trained on OULU-NPU and SiW dataset.
+
 ## Demo
 * #### 明軒桑's facial depth map
 
@@ -13,11 +17,6 @@ https://user-images.githubusercontent.com/112916328/221432436-0f363229-836f-4db3
 * #### Run on my laptop
 
 https://user-images.githubusercontent.com/112916328/221432965-774d3581-c049-4d62-885f-15678797e1d9.mp4
-
-
-## Abstract
-
-This is an implementation of AI-based Face Anti-Spoofing(FAS) Detection. The goal of this project is to perform FAS on detection on Rasberry Pi 4. We trained CDCN++ which was proposed in "***Searching Central Difference Convolutional Networks for Face Anti-Spoofing***" from scratch. The model was trained on OULU-NPU and SiW dataset.
 
 ## Citation
 ```
