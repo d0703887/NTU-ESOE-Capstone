@@ -18,6 +18,18 @@ https://user-images.githubusercontent.com/112916328/221432436-0f363229-836f-4db3
 
 https://user-images.githubusercontent.com/112916328/221432965-774d3581-c049-4d62-885f-15678797e1d9.mp4
 
+## Usage
+- Weights
+    ```bash
+    ```
+    Weights can be acquired here.
+
+- Start detecting!
+    ```bash
+    $ python run.py --detector_path --model_weights
+    ```
+    Use `--detector_path` and `--model_weights` to assign paths.
+
 ## Citation
 ```
 @inproceedings{yu2020searching,
